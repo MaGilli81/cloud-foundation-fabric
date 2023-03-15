@@ -137,7 +137,7 @@ variable "regions" {
     primary = string
   })
   default = {
-    primary = "europe-west1"
+    primary = "us-central1"
   }
 }
 
